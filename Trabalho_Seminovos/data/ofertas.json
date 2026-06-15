@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Honda Civic",
+    "ano": 2020,
+    "preco": "R$ 95.000",
+    "imagem": "/images/civic.jpg"
+  },
+  {
+    "nome": "Toyota Corolla",
+    "ano": 2021,
+    "preco": "R$ 110.000",
+    "imagem": "/images/corolla.jpg"
+  },
+  {
+    "nome": "Chevrolet Onix",
+    "ano": 2022,
+    "preco": "R$ 75.000",
+    "imagem": "/images/onix.jpg"
+  },
+  {
+    "nome": "Volkswagen Golf",
+    "ano": 2019,
+    "preco": "R$ 88.000",
+    "imagem": "/images/golf.jpg"
+  },
+  {
+    "nome": "Hyundai HB20",
+    "ano": 2023,
+    "preco": "R$ 79.000",
+    "imagem": "/images/hb20.jpg"
+  },
+  {
+    "nome": "Fiat Pulse",
+    "ano": 2024,
+    "preco": "R$ 98.000",
+    "imagem": "/images/pulse.jpg"
+  }
+]

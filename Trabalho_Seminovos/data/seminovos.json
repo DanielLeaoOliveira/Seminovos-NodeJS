@@ -1,0 +1,38 @@
+[
+  {
+    "nome": "Ford Ka",
+    "positivo": "Econômico e barato de manter.",
+    "negativo": "Espaço interno reduzido.",
+    "imagem": "/images/ka.jpg"
+  },
+  {
+    "nome": "Renault Sandero",
+    "positivo": "Porta-malas grande.",
+    "negativo": "Acabamento simples.",
+    "imagem": "/images/sandero.jpg"
+  },
+  {
+    "nome": "Peugeot 208",
+    "positivo": "Design moderno.",
+    "negativo": "Peças mais caras.",
+    "imagem": "/images/208.jpg"
+  },
+  {
+    "nome": "Honda Fit",
+    "positivo": "Muito confiável.",
+    "negativo": "Valor de mercado alto.",
+    "imagem": "/images/fit.jpg"
+  },
+  {
+    "nome": "Volkswagen Fox",
+    "positivo": "Boa dirigibilidade.",
+    "negativo": "Consumo mediano.",
+    "imagem": "/images/fox.jpg"
+  },
+  {
+    "nome": "Chevrolet Prisma",
+    "positivo": "Sedã econômico.",
+    "negativo": "Poucos itens tecnológicos.",
+    "imagem": "/images/prisma.jpg"
+  }
+]

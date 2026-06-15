@@ -1,0 +1,32 @@
+[
+  {
+    "nome": "BYD Dolphin",
+    "descricao": "Carro elétrico moderno e econômico.",
+    "imagem": "/images/dolphin.jpg"
+  },
+  {
+    "nome": "Jeep Compass",
+    "descricao": "SUV confortável e tecnológico.",
+    "imagem": "/images/compass.jpg"
+  },
+  {
+    "nome": "Toyota Hilux",
+    "descricao": "Picape forte para qualquer terreno.",
+    "imagem": "/images/hilux.jpg"
+  },
+  {
+    "nome": "Chevrolet Tracker",
+    "descricao": "SUV compacto com ótimo consumo.",
+    "imagem": "/images/tracker.jpg"
+  },
+  {
+    "nome": "Nissan Sentra",
+    "descricao": "Sedã elegante e confortável.",
+    "imagem": "/images/sentra.jpg"
+  },
+  {
+    "nome": "Fiat Fastback",
+    "descricao": "SUV cupê moderno e esportivo.",
+    "imagem": "/images/fastback.jpg"
+  }
+]
